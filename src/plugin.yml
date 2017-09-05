@@ -1,0 +1,19 @@
+name: MineTheftAuto
+author: elrobtossohn, SHEEPMAFIA
+main: de.elrobto.MineTheftAuto.Main
+version: ALPHA | MTF 1.0
+
+commands:
+  language:
+     description: Change Language
+     aliases: [lang,sprache,chooselang]
+  edit:
+     description: Change Playerdatas
+     aliases: [editplayer,playeredit,editp,pedit]
+  setwarp:
+  sms:
+  contact:
+     aliases: [kontakt,kontakte,contacts,smartphone]
+  bank:
+     aliases: [money,cash,geld,bar,konto,kontostand,stand]
+  giveweapon:
